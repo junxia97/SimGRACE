@@ -10,11 +10,21 @@ In this repository, we provide the codes of SimGRACE to evaluate its performance
 
 ## Citation
 ```
-@inproceedings{xia2022SimGRACE,
- author = {Xia, Jun and Wu, Lirong and Chen, Jintao and Hu, Bozhen and Li, Stan Z.},
- booktitle = {The Web Conference},
- title = {SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation},
- year = {2022}
+@inproceedings{10.1145/3485447.3512156,
+author = {Xia, Jun and Wu, Lirong and Chen, Jintao and Hu, Bozhen and Li, Stan Z.},
+title = {SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation},
+year = {2022},
+isbn = {9781450390965},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3485447.3512156},
+doi = {10.1145/3485447.3512156},
+booktitle = {Proceedings of the ACM Web Conference 2022},
+pages = {1070–1079},
+numpages = {10},
+keywords = {graph representation learning, contrastive learning, Graph neural networks, robustness, graph self-supervised learning},
+location = {Virtual Event, Lyon, France},
+series = {WWW '22}
 }
 ```
 ## Useful resources for Pretrained Graphs Models (PGMs)
