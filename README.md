@@ -4,9 +4,9 @@ PyTorch implementation for [SimGRACE: A Simple Framework for Graph Contrastive L
 In this repository, we provide the codes of SimGRACE to evaluate its performances in terms of generalizability (unsupervised & semi-supervised learning), transferability (transfer learning) and robustness (adversarial robustness).
 ![](./simgrace.png)
 ## Dataset download
-* Semi-supervised learning & Unsupervised representation learning [[TU Datasets]](https://chrsmrrs.github.io/datasets/docs/datasets/) (social and biochemical graphs)
-* Transfer learning [[chem data]](http://snap.stanford.edu/gnn-pretrain/data/chem_dataset.zip) (2.5GB);[[bio data]](http://snap.stanford.edu/gnn-pretrain/data/bio_dataset.zip) (2GB) 
-* Adversarial robustness [[synthetic data]](https://www.dropbox.com/sh/mu8odkd36x54rl3/AABg8ABiMqwcMEM5qKIY97nla?dl=0)
+* Semi-supervised learning & Unsupervised representation learning [TU Datasets](https://chrsmrrs.github.io/datasets/docs/datasets/) (social and biochemical graphs)
+* Transfer learning [chem data](http://snap.stanford.edu/gnn-pretrain/data/chem_dataset.zip) (2.5GB);[bio data](http://snap.stanford.edu/gnn-pretrain/data/bio_dataset.zip) (2GB) 
+* Adversarial robustness [synthetic data](https://www.dropbox.com/sh/mu8odkd36x54rl3/AABg8ABiMqwcMEM5qKIY97nla?dl=0)
 
 ## Citation
 ```
@@ -28,8 +28,8 @@ series = {WWW '22}
 }
 ```
 ## Useful resources for Pretrained Graphs Models (PGMs)
-* The first comprehensive survey for PGMs: [[A Survey of Pretraining on Graphs: Taxonomy, Methods, and Applications]](https://arxiv.org/abs/2202.07893v1)
-* [[A curated list of must-read papers, open-source pretrained models and pretraining datasets.]](https://github.com/junxia97/awesome-pretrain-on-graphs)
+* The first comprehensive survey for PGMs: [A Survey of Pretraining on Graphs: Taxonomy, Methods, and Applications](https://arxiv.org/abs/2202.07893v1)
+* [A curated list of must-read papers, open-source pretrained models and pretraining datasets.](https://github.com/junxia97/awesome-pretrain-on-graphs)
 
 ## Reference
 1.  [Graph Contrastive Learning Automated (ICML 2021)](https://github.com/Shen-Lab/GraphCL_Automated)
