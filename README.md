@@ -1,4 +1,4 @@
-# SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation
+# SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation (WWW 2022)
 PyTorch implementation for [SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation](https://arxiv.org/pdf/2202.03104.pdf) accepted by The Web Conference 2022 (WWW 2022).
 ## Overview
 In this repository, we provide the codes of SimGRACE to evaluate its performances in terms of generalizability (unsupervised & semi-supervised learning), transferability (transfer learning) and robustness (adversarial robustness).
